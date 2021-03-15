@@ -1,6 +1,9 @@
 # CPU-Project
 A project done during a oriented-object programming course at the university
 
+# Work Objetive
+This work can simulate and analyze the most diverse processing variations of a CPU that works with "single queue" and "multiple queue", in addition to varying the number of processing cores and their total working time, both idle and busy.
+
 # Files
 
 ## Desimul.py
